@@ -59,3 +59,5 @@ typings/
 
 # next.js build output
 .next
+/ReduxSimpleStarterWithRedux/node_modules
+/ReactReduxProject/node_modules
